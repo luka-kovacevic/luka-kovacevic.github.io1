@@ -1,8 +1,8 @@
-# ---
-title: /
+---
+title: 
 layout: home
-permalink: /
-# ---
+permalink: 
+---
 
 # Lorem ipsum
 
